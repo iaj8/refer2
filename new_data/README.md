@@ -1,8 +1,8 @@
 ## Download
 Download my cleaned data:.
 - 1) http://bvision.cs.unc.edu/licheng/referit/data/refclef.zip
-- 2) http://bvision.cs.unc.edu/licheng/referit/data/refcoco.zip
-- 3) http://bvision.cs.unc.edu/licheng/referit/data/refcoco+.zip
+- 2) http://bvision.cs.unc.edu/licheng/referit/data/new_data/refcoco.zip
+- 3) http://bvision.cs.unc.edu/licheng/referit/data/new_data/refcoco+.zip
 - 4) http://bvision.cs.unc.edu/licheng/referit/data/refcocog.zip
 
 Besides make a folder named ``images``.
